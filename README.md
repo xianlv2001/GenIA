@@ -1,9 +1,6 @@
 # GenIA
 Generative Index Advising for Dynamic HTAP Workloads and Data
 
-![image-20240918113730923](C:\Users\19375\AppData\Roaming\Typora\typora-user-images\image-20240918113730923.png)
-
-
 
 ### Code structure
 
