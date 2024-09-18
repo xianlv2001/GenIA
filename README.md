@@ -1,6 +1,6 @@
 # GenIA
 Generative Index Advising for Dynamic HTAP Workloads and Data
-
+![Framework overview of GenIA](./image.png)
 
 ### Code structure
 
