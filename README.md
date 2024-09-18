@@ -10,7 +10,7 @@ Generative Index Advising for Dynamic HTAP Workloads and Data
 ├── model.py　　　　　　　　　　　　　　　　　　　  # GenIA Model File  
 ├── data_process.py　　　　　　　　　　　　　　　　 # Process data
 ├── planTree.py　　　　　　　　　　　　　　　　　　 # Plan Encoding  
-├── log　　　　　　　　　　　　　　　　　　　　     # Log File  
+├── log　　　　　　　　　　　　　　　　　　　　     # Log File                  
 ├── psql　　　　　　　　　　　　　　　　　　　　      
 │　　├── PostgreSQL.py　　　　　　　　　　　　     # Interact with psql  
 └── pth　　　　　　　　　　　　　　　　　					     # save the model               
