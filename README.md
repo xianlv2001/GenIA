@@ -3,21 +3,21 @@ Generative Index Advising for Dynamic HTAP Workloads and Data
 ![Framework overview of GenIA](./structure.png)
 
 ### Code structure
-├── config.json　　　　　　　　　　　　　　　　　　　# Experimental Configuration File  
-├── README.md　　　　　　　　　　　　　　　　　　 # Code Documentation  
-├── requirements.txt　　　　　　　　　　　　　　　　# Experimental Requirements File  
-├── main.py　　　　　　　　　　　　　　　　　　　    # Main Process File  
+├── config.json　　　　　　　　　　　　　　　　　　 # Experimental Configuration File  
+├── README.md　　　　　　　　　　　　　　　　　　   # Code Documentation  
+├── requirements.txt　　　　　　　　　　　　　　　  # Experimental Requirements File  
+├── main.py　　　　　　　　　　　　　　　　　　　   # Main Process File  
 ├── model.py　　　　　　　　　　　　　　　　　　　  # GenIA Model File  
 ├── data_process.py　　　　　　　　　　　　　　　　 # Process data
 ├── planTree.py　　　　　　　　　　　　　　　　　　 # Plan Encoding  
-├── log　　　　　　　　　　　　　　　　　　　　         # Log File  
+├── log　　　　　　　　　　　　　　　　　　　　     # Log File  
 ├── psql　　　　　　　　　　　　　　　　　　　　      
-│　　├── PostgreSQL.py　　　　　　　　　　　　 # Interact with psql  
-└── pth　　　　　　　　　　　　　　　　　					# save the model               
+│　　├── PostgreSQL.py　　　　　　　　　　　　     # Interact with psql  
+└── pth　　　　　　　　　　　　　　　　　					     # save the model               
 │　　├── tpch                     
 │　　├── tpcds                      
 │　　├── chbenchmark                      
-└── resource　　　　　　　　　　　　　　　　			# Training data             
+└── resource　　　　　　　　　　　　　　　　			    # Training data and other useful json file             
 　　 ├── tpch              
 　　 ├── tpcds                  
 　　 └── chbenchmark 
