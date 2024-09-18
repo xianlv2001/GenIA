@@ -8,7 +8,7 @@ Generative Index Advising for Dynamic HTAP Workloads and Data
 ├── requirements.txt　　　　　　　　　　　　　　　  # Experimental Requirements File  
 ├── main.py　　　　　　　　　　　　　　　　　　　   # Main Process File  
 ├── model.py　　　　　　　　　　　　　　　　　　　  # GenIA Model File  
-├── data_process.py　　　　　　　　　　　　　　　　 # Process data
+├── data_process.py　　　　　　　　　　　　　　　　 # Process data                 
 ├── planTree.py　　　　　　　　　　　　　　　　　　 # Plan Encoding  
 ├── log　　　　　　　　　　　　　　　　　　　　     # Log File                  
 ├── psql　　　　　　　　　　　　　　　　　　　　      
