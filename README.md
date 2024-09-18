@@ -19,14 +19,14 @@ Generative Index Advising for Dynamic HTAP Workloads and Data
 
 ├── psql　　　　　　　　　　　　　　　　　　　　      
 
-│　　　　├── PostgreSQL.py　　　　　　　　　　　　 # Interact with psql  
+│　　├── PostgreSQL.py　　　　　　　　　　　　 # Interact with psql  
 └── pth　　　　　　　　　　　　　　　　　					# save the model
 
-│　　　　├── tpch
+│　　├── tpch
 
-│　　　　├── tpcds
+│　　├── tpcds
 
-│　　　　├── chbenchmark 
+│　　├── chbenchmark 
 
 └── resource　　　　　　　　　　　　　　　　			# Training data 
 
